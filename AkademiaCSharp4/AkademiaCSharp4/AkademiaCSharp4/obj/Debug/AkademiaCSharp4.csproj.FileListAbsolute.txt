@@ -1,0 +1,11 @@
+C:\Users\Michał\Desktop\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe.config
+C:\Users\Michał\Desktop\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe
+C:\Users\Michał\Desktop\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.pdb
+C:\Users\Michał\Desktop\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.exe
+C:\Users\Michał\Desktop\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.pdb
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe.config
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.exe
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.pdb
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.pdb
+D:\Pobrane\EkaNet_3_zadanie\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.csprojResolveAssemblyReference.cache

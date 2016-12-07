@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\bin\Debug\CSharpAcademy2-TimePiece.exe.config
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\bin\Debug\CSharpAcademy2-TimePiece.exe
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\bin\Debug\CSharpAcademy2-TimePiece.pdb
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\obj\Debug\CSharpAcademy2-TimePiece.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\obj\Debug\CSharpAcademy2-TimePiece.exe
+C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2-TimePiece\obj\Debug\CSharpAcademy2-TimePiece.pdb

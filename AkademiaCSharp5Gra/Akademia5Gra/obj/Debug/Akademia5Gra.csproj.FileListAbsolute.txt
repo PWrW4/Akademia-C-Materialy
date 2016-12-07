@@ -1,0 +1,9 @@
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.pdb
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.exe
+C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
+D:\Pulpit\Akademia5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
+D:\Pulpit\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.exe
+D:\Pulpit\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
