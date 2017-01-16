@@ -14,6 +14,8 @@ namespace AkademiaCSharp4.Humans
         public override void IntroduceYourself()
         {
             Console.WriteLine("Hello, I am teacher!");
+            Console.WriteLine(Name);
+            Console.WriteLine(Surname);
             Console.WriteLine();
         }
     }

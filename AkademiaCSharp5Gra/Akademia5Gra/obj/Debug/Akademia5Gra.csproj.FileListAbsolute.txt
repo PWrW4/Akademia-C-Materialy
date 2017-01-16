@@ -7,9 +7,18 @@ C:\Users\Michał\Desktop\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
 D:\Pulpit\Akademia5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
 D:\Pulpit\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.exe
 D:\Pulpit\Akademia5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.exe
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.pdb
-E:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\obj\Debug\Akademia5Gra.exe
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\bin\Debug\Akademia5Gra.exe
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\bin\Debug\Akademia5Gra.pdb
+C:\Users\Michał\Desktop\Akademia5\Akademia5Gra\obj\Debug\Akademia5Gra.csprojResolveAssemblyReference.cache
+D:\Pulpit\Akademia5\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
+D:\Pulpit\Akademia5\Akademia5Gra\obj\Debug\Akademia5Gra.exe
+D:\Pulpit\Akademia5\Akademia5Gra\obj\Debug\Akademia5Gra.pdb
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe.config
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.exe
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\bin\Debug\Akademia5Gra.pdb
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.csprojResolveAssemblyReference.cache
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.exe
+C:\Workspace\akademia-c-materialy\AkademiaCSharp5Gra\Akademia5Gra\obj\Debug\Akademia5Gra.pdb

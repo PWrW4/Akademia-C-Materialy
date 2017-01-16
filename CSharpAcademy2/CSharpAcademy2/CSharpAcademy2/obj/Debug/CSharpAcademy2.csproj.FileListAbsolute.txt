@@ -1,1 +1,2 @@
 C:\Users\Adam\Desktop\CSharpAcademy2\CSharpAcademy2\bin\Debug\CSharpAcademy2.exe.config
+C:\Workspace\akademia-c-materialy\CSharpAcademy2\CSharpAcademy2\CSharpAcademy2\bin\Debug\CSharpAcademy2.exe.config
