@@ -111,6 +111,7 @@ namespace Akademia5Gra
 
         private void WriteWorldToConsole()
         {
+     
             foreach (var creature in _creatureList)
             {
                 WriteCreatureToConsole(creature);

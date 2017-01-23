@@ -73,6 +73,7 @@ namespace Akademia5Gra.Creatures
         }
 
         public abstract int Attack();                                   // to musi zaimplementować każdy obiekt dzidziczący osobno
+        
 
         public virtual void GetDamage(int damage)                       // z tej metody może korzystać obiekt dziedziczący, ale może też ją też nadpisać (przesłonić)
         {
@@ -91,5 +92,7 @@ namespace Akademia5Gra.Creatures
             }
 
         }
+
+
     }
 }
