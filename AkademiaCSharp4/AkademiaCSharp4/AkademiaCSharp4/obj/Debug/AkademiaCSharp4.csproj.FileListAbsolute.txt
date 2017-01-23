@@ -15,3 +15,6 @@ C:\Workspace\akademia-c-materialy\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp
 C:\Workspace\akademia-c-materialy\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe
 C:\Workspace\akademia-c-materialy\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.pdb
 C:\Workspace\akademia-c-materialy\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.csprojResolveAssemblyReference.cache
+H:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\bin\Debug\AkademiaCSharp4.exe.config
+H:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.exe
+H:\Workspace\EkaNet Akademia C# - materiały\AkademiaCSharp4\AkademiaCSharp4\AkademiaCSharp4\obj\Debug\AkademiaCSharp4.pdb
